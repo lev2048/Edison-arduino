@@ -5,8 +5,8 @@
 效果图
 ![](http://a2.qpic.cn/psb?/V14UgACj2XGt4b/R4.y.frjAm3ekqRDykMuz73.YRup8OgP4OUN3X2RZ9k!/b/dH4BAAAAAAAA&bo=ZwGIAQAAAAADB80!&rf=viewer_4)
 传感器：/n
-土壤湿度传感器  A0口/n
-环境光传感器    A1口/n
-温度传感器      A2口/n
-继电器          数字区8口/n
+>土壤湿度传感器  A0口
+>环境光传感器    A1口
+温度传感器      A2口
+继电器          数字区8口
 
