@@ -1,4 +1,4 @@
-/*网络远程养花
+/*网络查看花状态
 */
 #include <WiFiUdp.h>
 #include <WiFiServer.h>
